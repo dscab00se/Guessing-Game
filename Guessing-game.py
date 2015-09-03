@@ -1,5 +1,5 @@
 #This is a number guessing game that is based on the code from "Inventing with Python" by Al Sweigart
-#The code has been modified to add new options such as restarting the script.
+#The code has been modified to add more features such as a restart option, an error messages for certain inputs.
 import random
 import time
 import sys
